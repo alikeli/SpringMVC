@@ -1,4 +1,4 @@
-package com.lisa.springMVC.config;
+package com.lisa.springMVC.lesson2.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
